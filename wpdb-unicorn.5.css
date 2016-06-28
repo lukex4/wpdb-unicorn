@@ -1,0 +1,171 @@
+
+.collapsibleInfo {
+  /*display:table;
+  height:500px;
+  min-height:500px;
+  height:auto;*/
+  min-height: 250px;
+  height:auto !important;
+  height: 250px;
+  width:100%;
+  clear:both;
+}
+
+hr {
+  clear:both;
+}
+
+hr.clearer {
+  clear:both;
+  height:10px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.rowWrapper {
+  /*display:table-row;*/
+  display:table;
+  height:100%;
+  width:100%;
+}
+
+.panel {
+  display:table-cell;
+  height:100%;
+  padding-bottom:30px;
+}
+
+.eql {
+  width:30%;
+}
+
+.eql2 {
+  width:70%;
+}
+
+.floatleft {
+  float:left;
+}
+
+.halfPanel {
+  width:50%;
+  float:left;
+}
+
+.thirdPanel {
+  width:33%;
+  float:left;
+}
+
+.twoThirdsPanel {
+  width:66%;
+  float:left;
+}
+
+.clearer {
+  clear:both;
+}
+
+.red {
+  color:#FF0000;
+}
+
+.five {
+  width:5%;
+}
+
+.ten {
+  width:10%;
+}
+
+.twenty {
+  width:20%;
+}
+
+.thirty {
+  width:30%;
+}
+
+.thirty-five {
+  width:35%;
+}
+
+.forty {
+  width:40%;
+}
+
+.forty-five {
+  width:45%;
+}
+
+.fifty {
+  width:50%;
+}
+
+.fifty-five {
+  width:55%;
+}
+
+.sixty {
+  width:60%;
+}
+
+.sixty-five {
+  width:65%;
+}
+
+.seventy {
+  width:70%;
+}
+
+.eighty {
+  width:80%;
+}
+
+.ninety {
+  width:90%;
+}
+
+.hundred {
+  width:100%;
+}
+
+.list-head {
+  font-weight:bold;
+  margin-bottom:12px;
+}
+
+.bottompad {
+  height:20px!important;
+  margin-bottom:8px!important;
+}
+
+.hlight {
+  font-weight:normal!important;
+  margin-top:0px!important;
+  padding-top:0px!important;
+}
+
+table {
+
+}
+
+.data-table {
+  font-size:11px!important;
+}
+
+.redRow {
+  color:#FF0000!important;
+}
+
+.center {
+  text-align:center!important;
+}
+
+.left {
+  text-align:left!important;
+}
+
+.right {
+  text-align:right!important;
+}
